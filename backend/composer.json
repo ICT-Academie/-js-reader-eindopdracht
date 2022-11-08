@@ -1,0 +1,8 @@
+{
+    "name": "koffiebaard/js-reader-eindopdracht",
+    "description": "JS reader eindopdracht voorbeeld",
+    "type": "project",
+    "require-dev": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
